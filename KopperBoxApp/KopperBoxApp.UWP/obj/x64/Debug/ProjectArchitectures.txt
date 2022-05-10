@@ -1,0 +1,1 @@
+D:\Dev\repos\kopperbox\KopperBoxApp\KopperBoxApp\KopperBoxApp.UWP\KopperBoxApp.UWP.csproj;x64
